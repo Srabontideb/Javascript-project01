@@ -1,1 +1,1 @@
-# It's a small food-item app
+# food-item app
